@@ -1,0 +1,5 @@
+Problem (non-technical): You want to start a small garden in your backyard to grow vegetables and herbs. Describe your approach to planning and planting this garden. Divide your approach into smaller steps or considerations, each contributing to the overall solution.
+
+Problem (non-technical): You want to undertake a home improvement project to renovate a room in your house, such as a bedroom or living room. Divide your approach into smaller steps.
+
+Problem (technical): Create a script that organizes files in a specified folder by sorting them into subfolders based on their file extensions. Divide your approach into small doable steps.
